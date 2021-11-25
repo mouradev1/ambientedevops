@@ -85,3 +85,4 @@ volumes:
   gitlab_logs:
   gitlab_data:
   jenkins_home:
+
